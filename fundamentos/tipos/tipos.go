@@ -9,6 +9,7 @@ import (
 func main() {
 	// números inteiros
 	f.Println(1, 2, 1000)
+	// Reflect exibe o tipo da variavel
 	f.Println("Literal inteiro é:", reflect.TypeOf(32000))
 
 	idade := 19.5
