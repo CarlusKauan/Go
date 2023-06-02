@@ -18,6 +18,6 @@ func main() {
 	fmt.Println(resultado1)
 
 	// daria um erro pois não aceita negativos (n uint) uint
-	resultado2 := fatorial(-4)
-	fmt.Println(resultado2)
+	// resultado2 := fatorial(-4)
+	// fmt.Println(resultado2)
 }
